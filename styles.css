@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.result {
+    padding: 5px;
+}
+
+#scoreboard {
+    display: box;
+    border-style: solid;
+    padding: 10px;
+    width: 250px;
+    margin: auto;
+    background-color: rgb(245, 241, 241);
+}
+
+#score {
+    color: black;
+    font-weight: bold;
+}
+
+#buttons {
+    padding: 20px;
+}
+
+.win {
+    color: blue;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.win-player {
+    color: green;
+}
+
+.win-computer {
+    color: red;
+}
